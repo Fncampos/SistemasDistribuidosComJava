@@ -1,0 +1,7 @@
+com\mycompany\rmi_server\RMIclassificados.class
+com\mycompany\rmi_cliente\Cliente.class
+com\mycompany\rmi_cliente\InterfaceClassificadoVeiculos.class
+com\mycompany\control_rmi\InterfaceClassificadoVeiculos.class
+com\mycompany\rmi_server\Veiculo.class
+com\mycompany\rmi_server\ImpClassificados.class
+com\mycompany\rmi_server\InterfaceClassificadoVeiculos.class
