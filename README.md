@@ -28,7 +28,7 @@ i. Servidor e cliente RMI estão no projeto com nome "RMI".
 ii. Ao implementar o projeto atentar para que a interface e seu Java packge, pois o nome do 
 packge e seu contúdo devem ser iguais no projeto cliente e projeto servidor.
 
-iii. i. A porta utilizada é 1099;
+iii. A porta utilizada é 1099;
 
 ## Ativiade 3 - Chat Room TCP está na diretório "Atividade3".
 
